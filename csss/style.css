@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    font-size: 16px;
+}
+.form-control, .btn{
+    position: relative;
+    left: 55vw;
+}
+.circle{
+    border-radius: 50%;
+    background-color: gray;
+    width: 12vh;
+    height: 12vw;
+}
+.btn-circle{
+    width: 12vh;
+    height: 12vw;
+
+}
