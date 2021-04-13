@@ -14,6 +14,54 @@ body{
     position: relative;
     left: 55vw;
 }
+.jumbotron{
+    background-color: lightgray;
+    width: 100vw;
+    height: 33vh;
+}
+.nav-text{
+    margin-left: 8vw;
+    position: relative;
+    top: 12vh;
+}
+.btn-lg{
+    position: relative;
+    left: 2vw;
+}
+.display-3, .lead{
+    text-align: left;
+}
+.line-father{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    position: relative;
+    top: 10vh;
+    width: 2vw;
+    height: 2vh;
+}
+.first-line{
+    border-bottom: 10px white solid;
+    width: 1vw;
+    height: 1vh;
+    
+    
+}
+
+.second-line{
+    border-bottom: 10px white solid;
+    width: 1vw;
+    height: 1vh;
+    
+}
+
+.third-line{
+    border-bottom: 10px white solid;
+    width: 1vw;
+    height: 1vh;
+    
+}
 .circle{
     border-radius: 50%;
     background-color: gray;
